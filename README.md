@@ -10,5 +10,5 @@ Student Info
 =========================
 
 * Student Name: NGUYEN TUAN ANH 
-* Student ID: BA11-007 dajh
+* Student ID: BA11-007 
 * Group 1
